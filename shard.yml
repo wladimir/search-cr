@@ -1,0 +1,13 @@
+name: search
+version: 0.1.0
+
+authors:
+  - Vladimir Ćirković <wladimir.cirkovic@gmail.com>
+
+targets:
+  search:
+    main: src/main.cr
+
+crystal: '>= 1.11.2'
+
+license: MIT
